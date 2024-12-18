@@ -1,0 +1,16 @@
+D:\Project\Expenses and Income tracker\bin\Debug\Expenses and Income tracker.exe.config
+D:\Project\Expenses and Income tracker\bin\Debug\Expenses and Income tracker.exe
+D:\Project\Expenses and Income tracker\bin\Debug\Expenses and Income tracker.pdb
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses and Income tracker.csproj.AssemblyReference.cache
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.category_1_Form.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.Daskboard.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.Expenses.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.Form1.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.Income.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.MainForm.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.Properties.Resources.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses_and_Income_tracker.RegisterForm.resources
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses and Income tracker.csproj.GenerateResource.cache
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses and Income tracker.csproj.CoreCompileInputs.cache
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses and Income tracker.exe
+D:\Project\Expenses and Income tracker\obj\Debug\Expenses and Income tracker.pdb
